@@ -6,4 +6,4 @@ Just making some changes to this, such that it will create problems while mergin
 
 Have fun dude!
 
-Im to will make some changes, great lets c wht's happening
+I to will make some changes, great lets c wht's happening
