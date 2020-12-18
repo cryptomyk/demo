@@ -5,3 +5,5 @@ Hey. this file is in the child branch and I am just a text file
 You are doing great and update me soon!
 
 Yup updating you
+
+updating child1 from example branch
